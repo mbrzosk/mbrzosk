@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marek
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevSecOps
 - 📫 How to reach me marek.brzoska@intel.com
 
 <!---
